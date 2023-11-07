@@ -17,7 +17,10 @@
     "storybook:build": "storybook build"
   },
   "dependencies": {
+    "@mantine/carousel": "^7.1.7",
     "@mantine/core": "7.1.7",
+    "@mantine/ds": "^7.1.7",
+    "@mantine/form": "^7.2.0",
     "@mantine/hooks": "7.1.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
